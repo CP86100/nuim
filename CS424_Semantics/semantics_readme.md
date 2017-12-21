@@ -17,3 +17,4 @@ There is a website called [rextester](http://rextester.com/l/scheme_online_compi
 
 **Sample Answers:**
 - [Answers to January 2017](./answers/2017-CS424-January.md)
+- [Answers to Autumn 2017](./answers/2017-CS424-autumn.md)
